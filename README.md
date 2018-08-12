@@ -1,4 +1,5 @@
 # Stock_price_predictor
+This  project is On going 
 this project is about forecatsing the stock price of DHaka stock exchange.
 the following are the steps that carried out to 
 preprocess the data using min max scalar 
